@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
-locale: en_US
+title: Pandas for new users
+locale: Au
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: BAili li
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "This is a sample Pandas academic website."
+  email: li116tao@126.com
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
+  twitter: Nan
   linkedin: #username
-  github: laderast
+  github: li116tao
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
